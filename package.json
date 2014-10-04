@@ -1,0 +1,32 @@
+{
+  "name": "glimmervoid",
+  "version": "0.0.0",
+  "description": "An empty canvas holds infinite possibilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcfog/glimmervoid.git"
+  },
+  "author": "Mcfog <mcfogw@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcfog/glimmervoid/issues"
+  },
+  "homepage": "https://github.com/mcfog/glimmervoid",
+  "devDependencies": {
+    "glob": "^4.0.6",
+    "gulp": "^3.8.8",
+    "gulp-less": "^1.3.6",
+    "gulp-livereload": "^2.1.1",
+    "gulp-load-plugins": "^0.7.0",
+    "gulp-minify-css": "^0.3.10",
+    "gulp-rename": "^1.2.0",
+    "gulp-webpack": "^0.4.1",
+    "merge-stream": "^0.1.6",
+    "webpack": "^1.4.4",
+    "webpack-bower-resolver": "0.0.1"
+  }
+}
